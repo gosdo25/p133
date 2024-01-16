@@ -1,0 +1,26 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family:Franklin Gothic Medium;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+box-shadow: 5px 5px 5px peachpuff;
+border-radius: 10px;
+}
+body{
+    background-size:cover;
+}
+.item{
+    background-color:white ;
+    font-size: 20px;
+    margin: 0px;
+    font-family:Franklin Gothic Medium;
+    width:200px;
+}
